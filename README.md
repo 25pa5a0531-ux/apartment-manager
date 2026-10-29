@@ -16,7 +16,7 @@ start.bat
 ```
 Located in the project root directory:
 ```
-C:\Users\Admin\.gemini\antigravity\scratch\apartment-management\start.bat
+C:\Users\Admin\Farooq_FSD\FSD\Project\apartment-management-system\start.bat
 ```
 
 What `start.bat` does automatically:
